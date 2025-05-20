@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdulqdos and I'm a Laravel Devoloper, Libya</h2>
+<h2 align="left">Hi 👋! My name is Abdulqdos and I'm a Full Stack Devoloper, Libya</h2>
 
 ###
 
